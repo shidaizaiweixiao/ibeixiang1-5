@@ -2,5 +2,5 @@
   <NuxtRouteAnnouncer />
   <NuxtLoadingIndicator />
   <NuxtPage />
-  12312312
+  123123121231
 </template>
