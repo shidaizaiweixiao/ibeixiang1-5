@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hello Edge
 
 A minimal [Nuxt](https://nuxt.com) starter deployed on the Edge using [NuxtHub](https://hub.nuxt.com).
@@ -58,3 +59,7 @@ Then checkout your server logs, analaytics and more in the [NuxtHub Admin](https
 
 You can also deploy using [Cloudflare Pages CI](https://hub.nuxt.com/docs/getting-started/deploy#cloudflare-pages-ci).
 
+=======
+# ibeixiang1-5
+i贝祥仓库
+>>>>>>> 19ec51b25ab5b158daf25da0faad6ecd9f993fc5
